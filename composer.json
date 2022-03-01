@@ -1,5 +1,5 @@
 {
-    "name": "elastic/transport",
+    "name": "centarro/elastic-transport-php",
     "type": "library",
     "description": "HTTP transport PHP library for Elastic products",
     "keywords": [
